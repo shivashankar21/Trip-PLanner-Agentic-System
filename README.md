@@ -1,4 +1,3 @@
-<img width="1024" height="1536" alt="ChatGPT Image Dec 2, 2025, 07_59_31 PM" src="https://github.com/user-attachments/assets/e0d5f112-20f8-4d61-82c4-3cdfd6fadf53" />
 # 🚀 Trip-PLanner-Agentic-System
 
 An intelligent **AI-powered travel planning system** that uses an **agentic workflow**, modular tools, and real-time APIs to generate end-to-end trip planning assistance. The system can:
